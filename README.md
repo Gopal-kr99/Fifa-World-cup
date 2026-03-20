@@ -13,6 +13,6 @@ Evaluated total matches played and goals scored
 Created interactive dashboards and visualizations to summarize insights
 
  Output:-
- "Fifa WorldCup image.png"
+ Fifa WorldCup image.png"
 
  Tableau public link:- "https://public.tableau.com/views/FifaProject_17718369348890/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
